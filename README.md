@@ -6,5 +6,6 @@
 * Homemade Molicel P30B 4S1P Flight Pack
 
 # Modifications
+* Replaced INAV with Ardupilot
 * Widened VTX Cage to allow soft mounting O4 Pro
 * Folding Prop
